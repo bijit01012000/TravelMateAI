@@ -5,7 +5,7 @@ import Providers from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'GPTGenius',
+  title: 'TravelMateAI',
   description:
     'GPTGenius: Your AI language companion. Powered by OpenAI, it enhances your conversations, content creation, and more!',
 };
